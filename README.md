@@ -2,7 +2,8 @@
 
 This project is a visual representation of a solar system built using HTML and CSS. The goal is to create a stylized, futuristic interpretation of our solar system, focusing on aesthetics and animation to provide an engaging and interactive experience. The project demonstrates the use of modern web technologies to simulate celestial bodies' movement and structure.
 
-## Live deployed link: https://murghendra-solar-system.vercel.app/ 
+Live deployed link: https://murghendra-solar-system.vercel.app/ 
+
 ## Features
 - **Stylized Planets and Sun:** Each planet and the Sun are designed with unique futuristic styles, giving the entire solar system a modern, sci-fi appearance.
 - **Planetary Orbits:** The planets move in circular or elliptical orbits around the Sun, simulating real-life celestial mechanics.
