@@ -1,4 +1,4 @@
-# Futuristic Solar System
+# EXPLORE: OUR SOLAR SYSTEM
 
 This project is a visual representation of a solar system built using HTML and CSS. The goal is to create a stylized, futuristic interpretation of our solar system, focusing on aesthetics and animation to provide an engaging and interactive experience. The project demonstrates the use of modern web technologies to simulate celestial bodies' movement and structure.
 
